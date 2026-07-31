@@ -1,0 +1,8 @@
+[project]
+name = "fantastic-giggle-ai-orchestrator"
+version = "0.1.0"
+description = "Offline brokerless AI orchestrator POC"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
